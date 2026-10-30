@@ -21,7 +21,7 @@ Atualmente, estou aprofundando meus conhecimentos em Java, Spring Boot e bancos 
 <h3> Estatísticas </h3>
 
 <div>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sfrancileidy-prog&theme=tokyonight" alt="Estatísticas do GitHub"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sfrancileidy-prog&theme=dracula" alt="Estatísticas do GitHub"/>
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sfrancileidy-prog&theme=tokyonight" alt="Linguagens mais utilizadas"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sfrancileidy-prog&theme=dracula" alt="Linguagens mais utilizadas"/>
 </div>
